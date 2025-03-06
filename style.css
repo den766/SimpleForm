@@ -10,7 +10,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 120vh;
+    height: 100vh;
    
 
 }
@@ -19,6 +19,7 @@ body{
     background-color: #000000;
     width: 26rem;
     height: auto;
+    margin: 20px;
 }
 
 
